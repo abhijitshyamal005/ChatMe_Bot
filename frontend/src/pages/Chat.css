@@ -1,0 +1,16 @@
+.A{
+    width: 100%;
+    border-radius: 8px;
+    background-color: rgb(17,27,39);
+    display: flex;
+    margin: auto;
+}
+.B{
+    width: 100%;
+    background-color: transparent;
+    padding: 30px;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 20px;
+}
