@@ -30,9 +30,11 @@ const Home = () => {
           }}
         >
           <img
-            src="robot.png"
+            src="airobot.png"
             alt="robot"
-            style={{ width: "200px", margin: "auto" }}
+            style={{ width: "200px", margin: "auto", }}
+            
+            
           />
           <img
             className="image-inverted rotate"
@@ -48,12 +50,10 @@ const Home = () => {
             style={{
               display: "flex",
               margin: "auto",
-              width: isBelowMd ? "80%" : "60%",
+              width: isBelowMd ? "60%" : "60%",
               borderRadius: 20,
               boxShadow: "-5px -5px 105px #64f3d5",
-              marginTop: 20,
-              marginBottom: 20,
-              padding: 10,
+              
             }}
           />
         </Box>

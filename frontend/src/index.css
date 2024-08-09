@@ -4,13 +4,16 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: #05101c;
+  /* background: #05101c; */
+  background-image: url("../public/bg.png");
   color: white;
   font-family: "Roboto Slab", serif;
+background-size: contain;
+  
 }
 
 .image-inverted {
-  filter: invert(100%);
+  /* filter: invert(100%); */
 }
 .nav-link {
   font-weight: 600;
