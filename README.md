@@ -8,6 +8,10 @@ It's a customized chatbot where each message of the user is stored in DB and can
 It's a completely secure application using JWT Tokens, HTTP-Only Cookies, Signed Cookies, Password Encryption, and Middleware Chains.
 
 Contributions are welcome
-<img href="ss1.png">
-<img href="ss2.png">
-<img href="ss3.png">
+
+
+<p>&nbsp;<img align="center" src="./frontend/public/ss1.png" alt="abhijitshyamal005" /></p>
+<p>&nbsp;<img align="center" src="./frontend/public/ss2.png" alt="abhijitshyamal005" /></p>
+<p>&nbsp;<img align="center" src="./frontend/public/ss3.png" alt="abhijitshyamal005" /></p>
+
+
